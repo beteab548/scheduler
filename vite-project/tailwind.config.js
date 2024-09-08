@@ -5,6 +5,7 @@ export default {
     extend: {
       spacing: {
         "custom-px": "600px",
+        "img-height":"200px"
       },
     },
   },
